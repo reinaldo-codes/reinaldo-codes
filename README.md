@@ -1,16 +1,18 @@
-## Hi there 👋
+# Reinaldo Ribeiro
 
-<!--
-**reinaldo-codes/reinaldo-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Análise e Desenvolvimento de Sistemas** 
 
-Here are some ideas to get you started:
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou focado em aprender e criar projetos práticos. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades 💼
+- **Linguagens de Programação:** Python, SQL, HTML, CSS 
+- **Ferramentas:** GitHub, Visual Studio Code
+- **Outros:** Excel (Intermediário) e Modelagem de Dados
+
+
+## Contato 🗨️
+**E-mail:** [reinaldo.ribeirofc@outlook.com](mailto:reinaldo.ribeirofc@outlook.com)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=reinaldo-codes&show_icons=true&theme=tokyonight&border_radius=10&locale=pt-br)  
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldo-codes&layout=compact&theme=tokyonight&border_radius=10&locale=pt-br) 
